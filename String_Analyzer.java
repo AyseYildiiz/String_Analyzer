@@ -2,7 +2,7 @@
 //Ayşe Yıldız 150122015
 import java.util.Scanner;
 
-public class Pro_150122015 {
+public class String_Analyzer {
 
 	public static void main(String[] args) {
 		//Shows options to the user
